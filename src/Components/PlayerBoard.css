@@ -1,0 +1,30 @@
+.scoreBoard {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: xx-large;
+  color: aliceblue;
+  margin-top: 2%;
+}
+
+.x {
+  color: #ffff00;
+}
+
+.o {
+  color: #7fff00;
+}
+
+p.xplayer {
+  padding: 15px;
+  border: 1px solid rgb(255, 255, 0);
+  border-radius: 8px;
+  background-color: black;
+  opacity: 75%;
+}
+p.oplayer {
+  padding: 15px;
+  border: 2px solid rgb(127, 255, 0);
+  border-radius: 8px;
+  background-color: black;
+  opacity: 75%;
+}

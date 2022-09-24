@@ -1,13 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  margin: 2.5%;
+  font-family: "Josefin Sans", cursive;
+  background-image: url("A:\Relevel\React\Tic-Tac-toe\tictactoe\src\pexels-daniel-absi-952670.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
